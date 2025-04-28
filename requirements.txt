@@ -1,0 +1,7 @@
+streamlit
+pandas
+bs4
+pdfplumber
+requests
+scikit-learn
+twilio
